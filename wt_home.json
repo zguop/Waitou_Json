@@ -21,6 +21,6 @@
       }
     ]
   },
-  "errorCode": 0,
+  "error_code": 0,
   "reason": "success"
 }
