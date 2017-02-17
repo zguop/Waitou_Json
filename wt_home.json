@@ -1,4 +1,6 @@
 {
+  "errorCode": 0,
+  "reason": "success",
   "result": {
     "function": [
       {
@@ -20,7 +22,5 @@
         "link": ""
       }
     ]
-  },
-  "error_code": 0,
-  "reason": "success"
+  }
 }
