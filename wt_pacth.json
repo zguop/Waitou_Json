@@ -3,7 +3,8 @@
   "reason": "success",
   "result": {
     "downloadUrl": "https://github.com/zguop/Waitou_Json/blob/master/patch/patch_signed.apk",
-    "versionName": "",
+    "versionName": "2.0.3",
+	"patchVersion":1,
     "patchMessage": "",
     "md5": ""
   }
