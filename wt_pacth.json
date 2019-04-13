@@ -1,11 +1,7 @@
 {
-  "error_code": "0",
-  "reason": "success",
-  "result": {
-    "downloadUrl": "https://github.com/zguop/Waitou_Json/blob/master/patch/patch_signed.apk",
-    "versionName": "2.0.3",
-    "patchVersion": 1,
-    "patchMessage": "",
-    "md5": ""
-  }
+  "downloadUrl": "https://github.com/zguop/Waitou_Json/blob/master/patch/patch_signed.apk",
+  "versionName": "2.0.3",
+  "patchVersion": 1,
+  "patchMessage": "",
+  "md5": ""
 }

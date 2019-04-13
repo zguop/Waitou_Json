@@ -1,36 +1,30 @@
-{
-  "error_code": "0",
-  "reason": "success",
-  "result": {
-    "function": [
-      {
-        "picUrl": "https://dn-mhc.qbox.me/9EEBA99E-493F-4CBE-8F08-84D2C0C3CA34.jpg",
-        "typeName": "搞事情",
-        "value":"",
-        "type": 0,
-        "link": ""
-      },
-      {
-        "picUrl": "https://dn-mhc.qbox.me/D578B66C-C032-4A27-8BC5-977AF51EB236.jpg",
-        "typeName": "哪里跑",
-        "value":"",
-        "type": 1,
-        "link": ""
-      },
-      {
-        "picUrl": "https://dn-mhc.qbox.me/97DF86F6-72B7-4931-8650-F71072126028.jpg",
-        "typeName": "听音乐",
-        "value":"",
-        "type": 2,
-        "link": ""
-      },
-      {
-        "picUrl": "http://img.hb.aicdn.com/d63edb11718f59390c92b17fe9399215c4f7c96c28643-CXnznk_fw658",
-        "typeName": "看视频",
-        "value":"",
-        "type": 3,
-        "link": ""
-      }
-    ]
+[
+  {
+    "picUrl": "https://dn-mhc.qbox.me/9EEBA99E-493F-4CBE-8F08-84D2C0C3CA34.jpg",
+    "typeName": "搞事情",
+    "value": "",
+    "type": 0,
+    "link": ""
+  },
+  {
+    "picUrl": "https://dn-mhc.qbox.me/D578B66C-C032-4A27-8BC5-977AF51EB236.jpg",
+    "typeName": "哪里跑",
+    "value": "",
+    "type": 1,
+    "link": ""
+  },
+  {
+    "picUrl": "https://dn-mhc.qbox.me/97DF86F6-72B7-4931-8650-F71072126028.jpg",
+    "typeName": "听音乐",
+    "value": "",
+    "type": 2,
+    "link": ""
+  },
+  {
+    "picUrl": "http://img.hb.aicdn.com/d63edb11718f59390c92b17fe9399215c4f7c96c28643-CXnznk_fw658",
+    "typeName": "看视频",
+    "value": "",
+    "type": 3,
+    "link": ""
   }
-}
+]
