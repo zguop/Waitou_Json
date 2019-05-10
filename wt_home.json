@@ -102,5 +102,29 @@
         "link": ""
       }
     ]
+  },
+  {
+    "template": 2,
+    "templateJson": [
+      {
+        "picUrl": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1557491044703&di=72af2d27757512dba85d999cd6eb49e8&imgtype=0&src=http%3A%2F%2Fp2.so.qhmsg.com%2Ft0119b875bb89cf764c.jpg",
+        "description": "towards",
+        "value": "/open/towards",
+        "type": 1,
+        "link": ""
+      }
+    ]
+  },
+  {
+    "template": 2,
+    "templateJson": [
+      {
+        "picUrl": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1557491080600&di=440b34480d8af8c71be92b8e08dcba24&imgtype=0&src=http%3A%2F%2Fp3.so.qhimgs1.com%2Ft017a2cb6052f28eb13.jpg",
+        "description": "emmmm...",
+        "value": "/open/emmm",
+        "type": 1,
+        "link": ""
+      }
+    ]
   }
 ]
